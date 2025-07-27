@@ -1,15 +1,47 @@
-## AniXTen 
+# 🚀 AniXTen
 
-#A simple Drm Live Streaming project created for educational and research purposes only.
+> **A lightweight DRM live streaming project created for educational & research purposes only.**
 
-Disclaimer
-This project does not host or own any keys, URLs, or copyrighted content.
+---
 
-All keys, links, and assets used here are sourced from publicly available third‑party sources and are not affiliated with or owned by me.
+## ✨ Features
 
-The repository is intended only for learning, testing, and proof‑of‑concept demonstrations.
+- 🎥 **Live Streaming** – Basic implementation for DRM-based streams.  
+- 🛠 **Educational Focus** – Purely for testing & proof-of-concept demonstrations.  
+- 🌍 **Public Sources** – All keys/URLs are from **publicly available third‑party resources**.  
+- 🔒 **No Ownership of Content** – No hosted or owned media, links, or keys.
 
-Commercial use or redistribution is strictly discouraged.
+---
 
-If you are a copyright owner or believe any material here infringes your rights, please send a takedown request to:
-aniketytxd@gmail.com
+## ⚠️ Disclaimer
+
+- This project **does NOT host, store, or own any copyrighted content**.  
+- All streaming URLs, keys, and assets are **sourced from public third‑party sources**.  
+- Intended for **research, learning, and testing** purposes only.  
+- **Commercial use or redistribution is strongly discouraged.**
+
+---
+
+## 📜 Legal Notice
+
+If you are a **copyright owner** or believe that this repository contains material that infringes upon your rights:  
+📩 Please send a **takedown request** to → **aniketytxd@gmail.com**
+
+---
+
+## 🧩 Tech Stack
+
+- **HTML5 / CSS3 / JavaScript**  
+- **JWPlayer** for player implementation  
+- Basic **proxy setup** (where applicable)
+
+---
+
+
+### ⭐ Contribute / Support
+
+- Fork the repo and experiment with improvements.  
+- Open issues for bugs, suggestions, or enhancements.  
+- Give a **star** ⭐ if this helped you learn something!
+
+---
